@@ -19,7 +19,7 @@ const routes = [
   },
   {
     path: '/event/create',
-    name: 'eventCreate',
+    name: 'EventCreate',
     component: EventCreate
   },
   {
